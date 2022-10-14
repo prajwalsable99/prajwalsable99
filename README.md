@@ -75,5 +75,5 @@
 <br/>
 
 
-##🐍
+<h3> hey snake </h3>
 ![snake gif](https://github.com/prajwalsable99/prajwalsable99/blob/output/github-contribution-grid-snake.gif)
