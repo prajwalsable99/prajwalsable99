@@ -1,10 +1,17 @@
 # Hi 👋 I'm Prajwal
-
-### I'm a 4th year Undergrad from DYP College of Enginnering,Akurdi
-
+### I'm a 4th year Undergrad from DYPCOE,Akurdi.
 - 🔭 I’m currently looking for job opportunities.
-- 🌱 I’m currently learning MERN-stack dev and expertise in DSA and Machine Learning.
 - 📚 I love to play video games and watch movies.
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/prajwal-sable-0273921b1/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Prajwal92957932"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/ig_prajwal_2001/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://youtube.com/channel/UC6HyyQM_zFHH4V9F0lyy5MQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+</p>
+
 - 📫professional : **https://prajwalsable.herokuapp.com/**
 - 📫personal : **https://prajwal123.herokuapp.com/**
 
@@ -66,15 +73,6 @@
 
 <br/>
 <br/>
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/prajwal-sable-0273921b1/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Prajwal92957932"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/ig_prajwal_2001/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://youtube.com/channel/UC6HyyQM_zFHH4V9F0lyy5MQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
 
 
 ## Watch my contribution graph eaten by the snake🐍
