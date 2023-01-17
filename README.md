@@ -67,7 +67,10 @@
 
 
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalsable99)](https://github.com/prajwalsable99/github-readme-stats)
+
+
+
+
 
 <br/>
 
