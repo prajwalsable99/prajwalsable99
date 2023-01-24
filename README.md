@@ -12,9 +12,6 @@
 
 </p>
 
-- 📫professional : **https://prajwalsable.herokuapp.com/**
-- 📫personal : **https://prajwal123.herokuapp.com/**
-
 <h3 align="left">Skills:</h3>
 
 <h5>Programming languages</h5>
