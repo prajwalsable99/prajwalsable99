@@ -1,6 +1,6 @@
 # Hi 👋 I'm Prajwal
-### I'm a 4th year Undergrad from DYPCOE,Akurdi.
-- 🔭 I’m currently looking for job opportunities.
+### 
+- 🔭 I’m currently working as Software Engineer.
 - 📚 I love to play video games and watch movies.
 ## Connect with me:
 <p align="left">
